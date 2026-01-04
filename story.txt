@@ -3,3 +3,6 @@ Line 2: Change by Prakritt Reviewed from Upstream too
 Line 3: End Of Chapter One
 Line 4: Chapter 2 : Origin + Upstream (Final)
 Line 5 : Starts in River
+Line 6 : Enters the river.
+Line 7 : Water current is high.
+Line 8 : Finds a Boat. 
